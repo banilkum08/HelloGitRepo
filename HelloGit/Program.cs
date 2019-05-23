@@ -13,7 +13,7 @@ namespace HelloGit
             int a = 20;
             int b = 30;
             Console.WriteLine("Hi");
-            Console.WriteLine("Addition is"+(a+b));
+            Console.WriteLine("Subtraction is"+(a-b));
         }
     }
 }
